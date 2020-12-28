@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeff Weintraub / Site Title"
+title                    : "Jeff Weintraub"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://weintraubje.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "weintraubje/weintraubje.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,7 @@ analytics:
 author:
   name             : "About Me"
   avatar           : "profile.png"
-  bio              : "Hi, I'm Jeff Weintraub, a student at Northeastern University who's passionate about bringing together data science and soft-skills 
-to create results anyone can understand and use.
-I'm concurrently pursuing a Bachelor of Science in Industrial Engineering and a Masters Degree in Operations Research, 
-and will graduate in Spring 2021, and am currently working as a data scientist co-op at a Financial Firm in Boston, as part of 
-their equity team."
+  bio              : 
   location         : "Boston, MA"
   employer         :
   pubmed           : 
@@ -106,7 +102,7 @@ their equity team."
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jeff-weintraub/"
+  linkedin         : "jeff-weintraub"
   orcid            :
   pinterest        :
   soundcloud       :
