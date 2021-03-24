@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "About Me"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "BS/MS Operations Research student at Northeastern University, focused on data science and finance"
   location         : "Boston, MA"
   employer         :
