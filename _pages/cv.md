@@ -22,7 +22,7 @@ Education
 
 Professional Experience
 ======
-*  Equity Data Science at Eaton Vance: Jun. 2020 - Jan. 2021
+* Equity Data Science at Eaton Vance: Jun. 2020 - Jan. 2021
   * Created Python scripts to automate cleaning and validation of equity factor datasets (gigabytes), capable of detecting and reporting errors and visualizing the distribution of the data.
   * Conducted exploration and preparation of alternative datasets for analysis, designing SQL queries to pull the specified data. Gave reports on significant factors and findings.
   * Wrote scripts to automate access to a stock data API, saving significant work hours.

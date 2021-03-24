@@ -1,6 +1,6 @@
 ---
 title: "Markov Chain Modeling of Stock Performance"
-excerpt: "Analyzing the stock market to show that past performance isn't indicative of future performance<br/><img src='/images/markov.jpeg'>"
+excerpt: "Analyzing the stock market to show that past performance isn't indicative of future performance<br/><img src='/images/markov.jpeg' style="width:500px;height:300px;">"
 collection: portfolio
 ---
 
