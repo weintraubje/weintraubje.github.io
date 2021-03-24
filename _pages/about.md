@@ -16,7 +16,11 @@ WIP
 
 What else do I do?
 ======
-Right now I'm trying to learn French from Duolingo.
+Right now I'm trying to learn French from Duolingo
+* Right now I'm ~50% of the way through the course
+* French is hard
+
+In my free time, I like to go biking, play tennis, or go running.
 
 If you want to reach out to me
 ======
