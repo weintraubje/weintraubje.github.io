@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* M.S. in Operations Research, Northeastern University, May 2021
-  * GPA: 3.89 / 4.00
-  * Data Coursework: Machine Learning and Pattern Recognition. Data Management. Data Visualization. Healthcare Systems Modeling.
-  * Math Coursework: Network Optimization. Financial Management. Engineering Statistics. Probabilistic Operations Research.
-* B.S. in Industrial Engineering, Northeastern University, May 2021
-  * GPA: 3.64 / 4.00
-  * Coursework: Stochastic Modeling. Simulation Modeling. Healthcare Systems Modeling. Human Machine Systems. Stochastic Processes. Quality Assurance.
+M.S. in Operations Research, Northeastern University, May 2021
+* GPA: 3.89 / 4.00
+* Data Coursework: Machine Learning and Pattern Recognition. Data Management. Data Visualization. Healthcare Systems Modeling.
+* Math Coursework: Network Optimization. Financial Management. Engineering Statistics. Probabilistic Operations Research.
+B.S. in Industrial Engineering, Northeastern University, May 2021
+* GPA: 3.64 / 4.00
+* Coursework: Stochastic Modeling. Simulation Modeling. Healthcare Systems Modeling. Human Machine Systems. Stochastic Processes. Quality Assurance.
 
 
 Professional Experience

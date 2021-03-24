@@ -16,7 +16,7 @@ WIP
 
 What else do I do?
 ======
-WIP
+Right now I'm trying to learn French from Duolingo.
 
 If you want to reach out to me
 ======
