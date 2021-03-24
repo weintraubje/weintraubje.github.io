@@ -38,6 +38,7 @@ Skills
 ======
 Languages: Python, R, C++
 * Relevant Libraries: Pandas, Numpy, SciPy, SciKit-Learn, NLTK, CPLEX
+
 Databases: MySQL, PostgreSQL, MongoDB, Neo4j
 
 
@@ -45,8 +46,10 @@ Service and Leadership
 ======
 Engineering Mentor
 * Mentored middle schoolers weekly at a public school in Boston. Taught basic concepts of engineering, coding, and robotics to assemble a “wrestler” robot using an Arduino kit and C++.
+
 IISE Seminar Leader
 * Conducted a lecture series on introductory Python, attended by over 50 students. Presented the basics of the language and relevant packages (NumPy, pandas, Sklearn) using Google Colab.
+
 Eagle Scout
 * Rebuilt a waterfront recreation spot; building swinging gates and removing erosive brush.
 * Went before the town conservation comission to present the project and gain approval.
