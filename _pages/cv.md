@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Operations Research, Northeastern University, May 2021
+  * GPA: 3.89 / 4.00
+  * Data Coursework: Machine Learning and Pattern Recognition. Data Management. Data Visualization. Healthcare Systems Modeling.
+  * Math Coursework: Network Optimization. Financial Management. Engineering Statistics. Probabilistic Operations Research.
+* B.S. in Industrial Engineering, Northeastern University, May 2021
+  * GPA: 3.64 / 4.00
+  * Coursework: Stochastic Modeling. Simulation Modeling. Healthcare Systems Modeling. Human Machine Systems. Stochastic Processes. Quality Assurance.
 
-Work experience
+
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2020 - January 2021: Equity Data Science
+  * Eaton Vance
+  * Created Python scripts to automate cleaning and validation of equity factor datasets (gigabytes), capable of detecting and reporting errors and visualizing the distribution of the data.
+  * Conducted exploration and preparation of alternative datasets for analysis, designing SQL queries to pull the specified data. Gave reports on significant factors and findings.
+  * Wrote scripts to automate access to a stock data API, saving significant work hours.
+  * Scraped data from SEC filings and EDGAR XML files to construct a novel factor dataset.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2019 - Present: Developer and Data Analyst
+  * IDEA Venture Accelerator, Northeastern University
+  * Led the data analytics group, coordinating meetings on the design of a Salesforce KPI website. Using Dash for Python, implemented requests described by key stakeholders to create a website that dynamically generates analytics of ventures and groups given user input.
+  * Leveraged 10 years of unused historical venture data into a metric describing likelihood of burnout, allowing for additional attention to be paid to at-risk ventures.
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Python
+	* Pandas, Numpy
+	* SciPy, SciKit-Learn, NLTK
+	* Optimization: CPLEX, Google OR Tools
+  * R
+  * C++
+* Databases
+  * MySQL
+  * PostgreSQL
+  * MongoDB
 
-Publications
+
+Service and Leadership
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Engineering Mentor
+  * Mentored middle schoolers weekly at a public school in Boston. Taught basic concepts of engineering, coding, and robotics to assemble a “wrestler” robot using an Arduino kit and C++.
+* IISE Seminar Leader
+  * Conducted a lecture series on introductory Python, attended by over 50 students. Presented the basics of the language and relevant packages (NumPy, pandas, Sklearn) using Google Colab.
+* Eagle Scout
