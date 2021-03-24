@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,32 +22,22 @@ Education
 
 Professional Experience
 ======
-* June 2020 - January 2021: Equity Data Science
-  * Eaton Vance
+* Jun. 2020 - Jan. 2021: Equity Data Science at Eaton Vance
   * Created Python scripts to automate cleaning and validation of equity factor datasets (gigabytes), capable of detecting and reporting errors and visualizing the distribution of the data.
   * Conducted exploration and preparation of alternative datasets for analysis, designing SQL queries to pull the specified data. Gave reports on significant factors and findings.
   * Wrote scripts to automate access to a stock data API, saving significant work hours.
   * Scraped data from SEC filings and EDGAR XML files to construct a novel factor dataset.
 
-* August 2019 - Present: Developer and Data Analyst
-  * IDEA Venture Accelerator, Northeastern University
+* Aug. 2019 - Present: Developer and Data Analyst at IDEA Venture Accelerator, Northeastern University
   * Led the data analytics group, coordinating meetings on the design of a Salesforce KPI website. Using Dash for Python, implemented requests described by key stakeholders to create a website that dynamically generates analytics of ventures and groups given user input.
   * Leveraged 10 years of unused historical venture data into a metric describing likelihood of burnout, allowing for additional attention to be paid to at-risk ventures.
   
   
 Skills
 ======
-* Languages
-  * Python
-	* Pandas, Numpy
-	* SciPy, SciKit-Learn, NLTK
-	* Optimization: CPLEX, Google OR Tools
-  * R
-  * C++
-* Databases
-  * MySQL
-  * PostgreSQL
-  * MongoDB
+* Languages: Python, R, C++
+	* Relevant Libraries: Pandas, Numpy, SciPy, SciKit-Learn, NLTK, CPLEX
+* Databases: MySQL, PostgreSQL, MongoDB, Neo4j
 
 
 Service and Leadership
@@ -57,3 +47,5 @@ Service and Leadership
 * IISE Seminar Leader
   * Conducted a lecture series on introductory Python, attended by over 50 students. Presented the basics of the language and relevant packages (NumPy, pandas, Sklearn) using Google Colab.
 * Eagle Scout
+  * Rebuilt a waterfront recreation spot; building swinging gates and removing erosive brush.
+  * Went before the town conservation comission to present the project and gain approval.
