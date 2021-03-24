@@ -1,6 +1,6 @@
 ---
-title: "Biking Boston - Travelling Salesman Optimization"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Markov Chain Modeling of Stock Performance"
+excerpt: "Analyzing the stock market to show that past performance isn't indicative of future performance<br/><img src='/images/markov.jpeg'>"
 collection: portfolio
 ---
 
