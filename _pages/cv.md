@@ -22,13 +22,13 @@ Education
 
 Professional Experience
 ======
-* Jun. 2020 - Jan. 2021: Equity Data Science at Eaton Vance
+*  Equity Data Science at Eaton Vance: Jun. 2020 - Jan. 2021
   * Created Python scripts to automate cleaning and validation of equity factor datasets (gigabytes), capable of detecting and reporting errors and visualizing the distribution of the data.
   * Conducted exploration and preparation of alternative datasets for analysis, designing SQL queries to pull the specified data. Gave reports on significant factors and findings.
   * Wrote scripts to automate access to a stock data API, saving significant work hours.
   * Scraped data from SEC filings and EDGAR XML files to construct a novel factor dataset.
 
-* Aug. 2019 - Present: Developer and Data Analyst at IDEA Venture Accelerator, Northeastern University
+* Developer and Data Analyst at IDEA Venture Accelerator, Northeastern University: Aug. 2019 - Present
   * Led the data analytics group, coordinating meetings on the design of a Salesforce KPI website. Using Dash for Python, implemented requests described by key stakeholders to create a website that dynamically generates analytics of ventures and groups given user input.
   * Leveraged 10 years of unused historical venture data into a metric describing likelihood of burnout, allowing for additional attention to be paid to at-risk ventures.
   
