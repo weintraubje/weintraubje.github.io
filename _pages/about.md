@@ -19,7 +19,7 @@ Academic interests
 ======
 Financial Markets
 * One of the most interesting ways to apply data skills is to the stock market, as it's a giant collection of *allegedly* random time series.
-* Through my co-op experience and coursework, I've been able to work with equity, transit, and housing datasets to identify novel solutions in the data.
+* Through my co-op experience and coursework, I've been able to work with equity, transit, and housing datasets to identify solutions and trends in the data.
 
 Operations Research
 * I'm very interested in the application of statistics and data science to optimization methods, which drew me to pursue a degree in OR.
