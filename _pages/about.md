@@ -8,11 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jeff Weintraub.
+Hi! I'm Jeff Weintraub. Right now I'm building out this site as a way to display my portfolio, and to introduce myself in a less formal way than my resume.
+
+About me
+======
+TO DO:
+1. Write this
 
 Academic interests
 ======
-WIP
+Financial Markets
+* One of the most interesting ways to apply data skills is to the stock market, as it's a giant collection of *allegedly* random time series.
+* Through my co-op experience and coursework, I've been able to work with equity, transit, and housing datasets to identify novel solutions in the data.
+
+Operations Research
+* I'm very interested in the application of statistics and data science to optimization methods, which drew me to pursue a degree in OR.
+* Linear programming is one of my favorite tools to use for optimization issues, and I have experience in programming with tools such as [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) and SciPy. One personal project I'm working uses this technique to decide on optimal distribution of the COVID vaccine given user inputs, which I'm basing on [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7430607.2/pdf/nihpp-2020.08.14.20175257.pdf).
+
 
 What else do I do?
 ======
