@@ -2,6 +2,8 @@
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects. If you're reading this today, this page is still a big work in progress.
 
+For a more visually appealing version of this, check out https://weintraubje.github.io/.
+
 ## Sports Analytics
 
 ### NBA Contract Value
