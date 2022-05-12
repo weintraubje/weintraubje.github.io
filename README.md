@@ -8,4 +8,4 @@ For a more visually appealing version of this, check out https://weintraubje.git
 
 ### NBA Contract Value
 
-This project attempts to quantify the quality of management, coaching, and ownership in the NBA in terms of player performance per dollar spent (adjusted for factors such as injuries). Live version is [here](x). The code can be found [here](x).
+This project attempts to quantify the quality of management, coaching, and ownership in the NBA in terms of player performance per dollar spent (adjusted for factors such as injuries). Live version is [here](x). The code can be viewed [here](https://nbviewer.org/github/weintraubje/weintraubje.github.io/blob/main/NBA%20Contracts/NBA%20Contract%20Analytics.ipynb).
