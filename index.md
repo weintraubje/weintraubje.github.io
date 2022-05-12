@@ -4,6 +4,6 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 ## Sports Analytics
 
-### NBA Contract Value
+### NBA Executive and Ownership Analysis
 
-This project attempts to quantify the quality of managers and owners in the NBA, assuming that they have separate influences on performance per dollar. Live version is [here](x). The code can be found [here](x).
+This project measures the quality of executives and owners in the NBA based off their ability to not only recognize and pay for talent, but also to construct a quality team of players who work well together. A live version of the final results can be found [here [WIP]](x). The code and underlying analysis can be found [here](https://nbviewer.org/github/weintraubje/weintraubje.github.io/blob/main/NBA%20Contracts/NBA%20Contract%20Analytics.ipynb).
