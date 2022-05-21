@@ -1,6 +1,6 @@
 # Data Science Portfolio by Jeff Weintraub
 
-This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
+This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects. I'm pretty much just setting this site up so apologies if you're seeing it as a work in progress!
 
 ## Sports Analytics
 
